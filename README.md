@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Aidan, I'm a student at Northern Arizona University studying software engineering.
+
+I'm currently learning C and how to use GitHub
